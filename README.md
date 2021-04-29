@@ -1,1 +1,1 @@
-# OCR---Identifi-o-de-placas
+# OCR_plaque_recognition - Identificação de placas de veiculos
